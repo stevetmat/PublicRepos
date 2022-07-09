@@ -1,0 +1,1 @@
+Extended Bio-Inspired Texture Descriptor
